@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+One&display=swap');
+body{
+    font-family: 'Mochiy Pop One', sans-serif;
+    text-align: center;
+}
+.W1{
+    text-align: center;
+    border: 5px solid palevioletred;
+}
+.but{
+    outline: none;
+    border: none;
+    cursor: pointer;
+    font-size: 30px;
+    font-weight: 200;
+    color: #ab0078;
+    background-color: #ffb4fa;
+    padding: 2px 10px;
+    margin: 30px 2px;
+    letter-spacing: 2px;
+    text-transform: capitalize;
+    border-radius: 30px;
+    box-shadow: 0 15px 10px white;
+}
+.but_clicked {
+    background-color: #e694ff;
+}
+.but:hover {
+    color: black;
+    background-color: #e3cfff;
+}

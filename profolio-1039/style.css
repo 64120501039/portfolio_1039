@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+One&display=swap');
+body {
+    background-color: #ffe5ee;
+    font-family: 'Mochiy Pop One', sans-serif;
+}
+
+.h1 {
+    border: 5px solid palevioletred;
+    text-align: center;
+}
+
+.h2 {
+    float: right;
+}
+
+.h21 {
+    text-align: center;
+    font-size: 50px;
+}
+
+.h22 {
+    text-align: center;
+}
+
+.h3 {
+    margin-left: 10%;
+    padding: 10px;
+    width: 300px;
+    background-color: #FFBBDA;
+    color: black;
+    border-radius: 8px;
+    float: left;
+    clear: left;
+}
+
+.h31 {
+    margin-left: 10%;
+    padding: 10px;
+    width: 300px;
+    background-color: #C0E4F6;
+    color: black;
+    border-radius: 7px;
+    float: left;
+}
+
+.h32 {
+    margin-left: 10%;
+    padding: 10px;
+    width: 300px;
+    background-color: #E8CFF8;
+    color: rgb(10, 10, 10);
+    border-radius: 8px;
+    float: left;
+}
+
+.butt {
+    text-align: center;
+}
+
+.h41 {
+    text-align: center;
+}
+
+.h4 {
+    text-align: center;
+}
+.butt {
+    outline: none;
+    border: none;
+    cursor: pointer;
+    font-size: 30px;
+    font-weight: 100;
+    color: #ab0078;
+    background-color: #ffb4fa;
+    padding: 2px 5px;
+    margin: 40px 5px;
+    letter-spacing: 5px;
+    text-transform: capitalize;
+    border-radius: 10px;
+    box-shadow: 0 15px 10px rgb(255, 255, 255);
+}
+.butt_clicked {
+    background-color: #87b7fe;
+}
+.butt:hover {
+    color: black;
+    background-color: #6ba6f4;}
